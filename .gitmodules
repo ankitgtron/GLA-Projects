@@ -1,0 +1,3 @@
+[submodule "MediLink"]
+	path = MediLink
+	url = https://github.com/ankitgtron/MediLink.git
