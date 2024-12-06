@@ -1,3 +1,6 @@
 [submodule "MediLink"]
 	path = MediLink
 	url = https://github.com/ankitgtron/MediLink.git
+[submodule "react-ecommerce"]
+	path = react-ecommerce
+	url = https://github.com/ed-roh/react-ecommerce.git
